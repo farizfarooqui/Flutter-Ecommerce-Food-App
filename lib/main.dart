@@ -1,6 +1,5 @@
 import 'package:figma_project/colors.dart';
 import 'package:figma_project/landing_screen.dart';
-import 'package:figma_project/paymentform.dart';
 import 'package:flutter/material.dart';
 
 void main() {
